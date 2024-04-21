@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "clerkApp",
+    "slug": "clerkApp",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ]
+  }
+}
